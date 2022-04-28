@@ -29,6 +29,9 @@ Be sure to have Node.js installed: `npm install`. Install dependencies and dev d
 
 ## Usage
 
+Deployed URL: https://frozen-inlet-62135.herokuapp.com/
+<img width="400" alt="project3" src="https://user-images.githubusercontent.com/92761848/165854123-df2ef7b1-d8ec-446d-b300-477aa32c9f03.png">
+
 In Visual Code Studio or another coding software of your choice, run this application in Terminal by typing: `npm start`.
 
 ## License
